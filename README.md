@@ -1,3 +1,4 @@
+![](crop-hello.gif)
 # 💫 About Me:
 🔭 Currently building: My website justwaitforme.de<br>👯 Looking to collaborate on: My social network personalitylib.com<br>🌱 Currently learning: Node.js and C (exciting new skills in progress!)<br>💬 Ask me anything: Python is my jam—let’s dive into some code!<br>⚡ Fun fact: All my web apps are built in PHP… but yeah, I’m not a fan 😅
 
